@@ -41,4 +41,6 @@ This repository contains a Python script that solves the Password Game up to 11 
 
 ## Notes
 
-Occasionally, you might encounter a human verification prompt ("Please Verify You Are a Human") that requires clicking a checkbox manually to proceed. Unfortunately, this verification step is built into the Password Game and cannot be bypassed.
+* To pause tests at any given time use `page.pause()` in the test code.
+
+* Occasionally, you might encounter a human verification prompt ("Please Verify You Are a Human") that requires clicking a checkbox manually to proceed. Unfortunately, this verification step is built into the Password Game and cannot be bypassed.

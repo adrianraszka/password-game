@@ -12,7 +12,7 @@ This repository contains a Python script that solves the Password Game up to 11 
 1. Clone this repository.
 2. Navigate to the project folder:
     ```
-    cd passoword-game-tests
+    cd passoword-game
     ```
 3. Install the dependencies:
     ```
